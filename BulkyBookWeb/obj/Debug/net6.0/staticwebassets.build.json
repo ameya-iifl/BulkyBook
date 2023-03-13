@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "24LA1tw5HdwclJEbdoisBbv42XClSlrlBJaJYg/pF3o=",
+  "Hash": "DCbkC1kWy3J/g3XFBXUmOetar+P5goElaBoWC9Wgphc=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\BootSwatchTheme.css",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "css/BootSwatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BootSwatchTheme.css"
     },
     {
       "Identity": "D:\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
