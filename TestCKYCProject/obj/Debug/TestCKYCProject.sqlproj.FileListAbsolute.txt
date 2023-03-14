@@ -1,8 +1,0 @@
-D:\PBI\8. 139167 - Creation of Stored procedure for CKYC (customer data upload)\TestCKYCProject\TestCKYCProject\bin\Debug\TestCKYCProject.dacpac
-D:\PBI\8. 139167 - Creation of Stored procedure for CKYC (customer data upload)\TestCKYCProject\TestCKYCProject\obj\Debug\TestCKYCProject.sqlproj.AssemblyReference.cache
-D:\PBI\8. 139167 - Creation of Stored procedure for CKYC (customer data upload)\TestCKYCProject\TestCKYCProject\obj\Debug\Model.xml
-D:\PBI\8. 139167 - Creation of Stored procedure for CKYC (customer data upload)\TestCKYCProject\TestCKYCProject\obj\Debug\refactor.xml
-D:\PBI\8. 139167 - Creation of Stored procedure for CKYC (customer data upload)\TestCKYCProject\TestCKYCProject\obj\Debug\postdeploy.sql
-D:\PBI\8. 139167 - Creation of Stored procedure for CKYC (customer data upload)\TestCKYCProject\TestCKYCProject\obj\Debug\predeploy.sql
-D:\PBI\8. 139167 - Creation of Stored procedure for CKYC (customer data upload)\TestCKYCProject\TestCKYCProject\obj\Debug\TestCKYCProject.dll
-D:\PBI\8. 139167 - Creation of Stored procedure for CKYC (customer data upload)\TestCKYCProject\TestCKYCProject\obj\Debug\TestCKYCProject.pdb
